@@ -1,5 +1,6 @@
 ---
 name: grill-me-with-ledger
+ver: 1
 description: A relentless interview (grilling) that offers lettered-choice bulk replies and keeps a running decision ledger. Use when you want a grilling session whose decisions are recorded.
 disable-model-invocation: true
 ---

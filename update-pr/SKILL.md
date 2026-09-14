@@ -1,5 +1,6 @@
 ---
 name: update-pr
+ver: 1
 description: only when directly asked via slash-command
 ---
 

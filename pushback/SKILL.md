@@ -1,5 +1,6 @@
 ---
 name: pushback
+ver: 1
 description: skill used on demand (slash-command) when user wants to emphasize that agent can express doubts or contrary opinion
 ---
 

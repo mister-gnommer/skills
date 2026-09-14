@@ -1,5 +1,6 @@
 ---
 name: plan-review
+ver: 1
 description: >-
   Multi-model plan review via 1–3 subagents. Use ONLY when the user explicitly
   asks to start plan review, review the plan, or similar while working on an

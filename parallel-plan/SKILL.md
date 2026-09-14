@@ -1,5 +1,6 @@
 ---
 name: parallel-plan
+ver: 1
 description: Creates implementation plans designed for multiple parallel AI agents using exclusive file ownership, dependency waves, integration barriers, parallel verification, and centralized fixes. Use when the user explicitly asks for a parallel plan, multi-agent plan, fan-out/fan-in workflow, or invokes /parallel-plan.
 disable-model-invocation: true
 ---

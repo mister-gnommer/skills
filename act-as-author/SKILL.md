@@ -1,5 +1,6 @@
 ---
 name: act-as-author
+ver: 1
 description: use when directly asked.
 ---
 
